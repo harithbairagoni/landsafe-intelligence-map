@@ -1,0 +1,5 @@
+[
+  {"id":"ls-042","survey":"42/1","plot":"12","village":"Demo revenue village","mandal":"Serilingampally","district":"Ranga Reddy","area":"1,840 m²","bbox":[78.32776,17.46715,78.32816,17.46753],"example":"overlap"},
+  {"id":"ls-043","survey":"43/2","plot":"14","village":"Demo revenue village","mandal":"Serilingampally","district":"Ranga Reddy","area":"1,275 m²","bbox":[78.32824,17.46722,78.32863,17.46752],"example":"document"},
+  {"id":"ls-044","survey":"44","plot":"18","village":"Demo revenue village","mandal":"Serilingampally","district":"Ranga Reddy","area":"2,090 m²","bbox":[78.32804,17.46670,78.32852,17.46708],"example":"unknown"}
+]
